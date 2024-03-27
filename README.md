@@ -1,2 +1,2 @@
 # CheeseChase
-Inspired from original snake game(In progress)
+Inspired by the original snake game (In progress...)
